@@ -25,7 +25,7 @@ html {
 color:white;
 margin:0;
 padding:0;
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 
 body {
@@ -79,17 +79,17 @@ video#bgvid {
 /* Autism in the following lines!! */
 marquee {
   /*cursor: pointer;*/
-  cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+  cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 span {
-  cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+  cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 nav {
-  cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+  cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 
 nav:hover {
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 .info  {
 position:absolute;
@@ -105,12 +105,12 @@ a {
 text-decoration:none;
 color:white;
 font-size:15;
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 
 a:hover {
 text-shadow:1px 1px 2px #bec7d6;
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 
 .mei {
@@ -158,7 +158,7 @@ margin-top:200;
 -webkit-box-sizing: content-box;
 -moz-box-sizing: content-box;
 box-sizing: content-box;
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 border: none;
 font: normal 72px/normal "Oswald";
 color: rgba(255,255,255,1);
@@ -278,7 +278,7 @@ color:white;
 font-size:12;
     -webkit-animation-delay: 1.5s; /* Safari 4.0 - 8.0 */
     animation-delay: 1.5s;
-cursor:  url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur) 4 12, auto;
+cursor:  url(http://ani.cursors-4u.net/symbols/sym-8/sym752.cur) 4 12, auto;
 }
 
 .modal3 {
